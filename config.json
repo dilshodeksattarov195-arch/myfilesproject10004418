@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorppdate",
+        "uuid": 23256352,
+        "checksum": "fdt95"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
